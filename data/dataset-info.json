@@ -1,0 +1,72 @@
+{
+  "version": "1.0",
+  "date": "2026-10-02",
+  "count": 57,
+  "categories": {
+    "B": {
+      "name": "Comparison & Value",
+      "ko": "비교와 가치",
+      "count": 7
+    },
+    "C": {
+      "name": "Personal Recommendation",
+      "ko": "개인 맞춤 추천",
+      "count": 7
+    },
+    "D": {
+      "name": "Test Drive & Experience",
+      "ko": "시승과 체험",
+      "count": 6
+    },
+    "E": {
+      "name": "Appointment & Time",
+      "ko": "예약과 시간",
+      "count": 5
+    },
+    "F": {
+      "name": "Existing Owner",
+      "ko": "기존 오너",
+      "count": 4
+    },
+    "G": {
+      "name": "Premium Expectation & Recovery",
+      "ko": "기대와 경험 회복",
+      "count": 5
+    },
+    "H": {
+      "name": "Information Conflict & Uncertainty",
+      "ko": "정보 충돌과 불확실성",
+      "count": 14
+    },
+    "I": {
+      "name": "Multiple Decision Makers",
+      "ko": "복수 의사결정자",
+      "count": 3
+    },
+    "J": {
+      "name": "Privacy & Discretion",
+      "ko": "프라이버시와 배려",
+      "count": 3
+    },
+    "K": {
+      "name": "Brand & Identity",
+      "ko": "브랜드와 정체성",
+      "count": 3
+    }
+  },
+  "types": {
+    "THINK": 37,
+    "CLEAR": 20
+  },
+  "difficulty": {
+    "D3": 38,
+    "D2": 15,
+    "D1": 4
+  },
+  "rubric": {
+    "points_per_criterion": 1,
+    "criteria_per_scenario": 3,
+    "clear_rule": "세 기준을 스스로 모두 충족했다고 판단하면 Clear. 재학습 필요 시 Review. 모르면 예시 확인 후 Review."
+  },
+  "provenance_note": "원문 읽기 결과가 I01 평가에서 잘림. I02–I03/J/K는 신규 작성. H10은 최종 합의된 H 보강 목록에서 신규 작성했으며 A를 이동하지 않음."
+}
