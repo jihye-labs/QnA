@@ -26,6 +26,10 @@ Framework Preset은 **Other**, Root Directory는 저장소 루트, Output Direct
 각 HTML에 시나리오가 포함되어 있어 실행 시 별도 API가 필요하지 않습니다.
 데이터 변경 시 JSON/CSV와 두 HTML의 내장 데이터도 함께 갱신해야 합니다.
 
+## 서비스 응대 개정 v1.1
+
+57개 시나리오의 1차·2차 응답 114개를 고객 공감과 선택 지원 중심으로 다듬었습니다. C01에는 출퇴근과 가족 캠핑이라는 이용 예시를 반영했습니다. 수정된 문구는 `docs/service-responses-v1.1.txt`에서도 확인할 수 있습니다.
+
 ## 콘텐츠
 
 B 7 · C 7 · D 6 · E 5 · F 4 · G 5 · H 14 · I 3 · J 3 · K 3 = 57개.
